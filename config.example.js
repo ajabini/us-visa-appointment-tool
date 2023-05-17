@@ -1,6 +1,6 @@
 export const config = {
     lowerLimitDate: "26 July, 2022",
-    userEmail: "testEmail",
+    userEmail: "",
     password: "testPassword",
     location: "Vancouver",
     intervalInMins: 16,
